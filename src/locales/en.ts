@@ -240,12 +240,6 @@ const en: Locale = {
     sub: "Whether it's product inquiries, technical support, or partnership opportunities — we'd love to hear from you",
     addressLabel: "Office Address",
     emailLabel: "Email",
-    phoneLabel: "Phone",
-    companyInfoTitle: "Company Info",
-    companyNameLabel: "Company Name",
-    websiteLabel: "Website",
-    headquartersLabel: "Headquarters",
-    headquartersValue: "Singapore",
     form: {
       name: "Name",
       namePlaceholder: "Your name",

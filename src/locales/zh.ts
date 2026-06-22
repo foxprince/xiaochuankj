@@ -226,12 +226,6 @@ const zh = {
     sub: "无论是产品咨询、技术支持还是合作洽谈，我们都期待与您交流",
     addressLabel: "公司地址",
     emailLabel: "电子邮箱",
-    phoneLabel: "联系电话",
-    companyInfoTitle: "公司信息",
-    companyNameLabel: "公司名称",
-    websiteLabel: "官方网站",
-    headquartersLabel: "总部",
-    headquartersValue: "新加坡",
     form: {
       name: "姓名",
       namePlaceholder: "您的姓名",
@@ -371,12 +365,6 @@ export type Locale = {
     sub: string;
     addressLabel: string;
     emailLabel: string;
-    phoneLabel: string;
-    companyInfoTitle: string;
-    companyNameLabel: string;
-    websiteLabel: string;
-    headquartersLabel: string;
-    headquartersValue: string;
     form: {
       name: string;
       namePlaceholder: string;
